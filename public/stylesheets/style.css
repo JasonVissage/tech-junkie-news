@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  background-color: #5e99e7;
 }
 
 body,
@@ -13,7 +14,7 @@ html {
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #000000;
   font-weight: bold;
   transition: color 0.1s;
 }
@@ -23,7 +24,7 @@ a:hover {
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #623674;
   border: 0;
   padding: 1%;
   color: white;
@@ -34,7 +35,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color: #000000;
 }
 
 .post-list {
@@ -47,6 +48,7 @@ input {
   padding: 0.5%;
   border-radius: 5px;
   border: 1px solid #ccc;
+  background-color: #fff5eb;
 }
 
 textarea:focus,
